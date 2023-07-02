@@ -76,7 +76,3 @@ class ItemWeightComparator implements ItemComparator {
         return first.weight - second.weight !== 0 ? first.weight - second.weight : first.compareTo(second);
     }
 }
-
-
-
-
