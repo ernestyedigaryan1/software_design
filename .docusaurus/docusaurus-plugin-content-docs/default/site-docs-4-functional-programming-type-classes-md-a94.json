@@ -1,0 +1,26 @@
+{
+  "unversionedId": "functional-programming/type_classes",
+  "id": "functional-programming/type_classes",
+  "title": "4. Type classes and ADTs",
+  "description": "Another important thing in functional programming is type-classes and algebraic data types. This is what makes functional programming so flexible and abstract by providing a convenient way of using ad-hoc polymorphism. Actually, we already dealt with it in the previous article when talked about the functors.",
+  "source": "@site/docs/4-functional-programming/type_classes.md",
+  "sourceDirName": "4-functional-programming",
+  "slug": "/functional-programming/type_classes",
+  "permalink": "/docs/functional-programming/type_classes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. Categories and Functors",
+    "permalink": "/docs/functional-programming/categories_and_functors"
+  },
+  "next": {
+    "title": "5. Functional programming in JS/TS",
+    "permalink": "/docs/functional-programming/is_js_functional"
+  }
+}

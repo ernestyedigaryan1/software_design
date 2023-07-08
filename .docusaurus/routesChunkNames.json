@@ -1,0 +1,40 @@
+{
+  "/docs-50e": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "e04b78a4"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/functional-programming/categories_and_functors-e85": {
+    "__comp": "17896441",
+    "content": "3ded7021"
+  },
+  "/docs/functional-programming/fp_introduction-3f6": {
+    "__comp": "17896441",
+    "content": "800022a5"
+  },
+  "/docs/functional-programming/hometask-de4": {
+    "__comp": "17896441",
+    "content": "018242a7"
+  },
+  "/docs/functional-programming/is_js_functional-f70": {
+    "__comp": "17896441",
+    "content": "b04c6e8a"
+  },
+  "/docs/functional-programming/main_concepts-c62": {
+    "__comp": "17896441",
+    "content": "368d136d"
+  },
+  "/docs/functional-programming/type_classes-40e": {
+    "__comp": "17896441",
+    "content": "a94b9cf1"
+  },
+  "/-8e9": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "045a5587"
+    },
+    "config": "5e9f5e1a"
+  }
+}
