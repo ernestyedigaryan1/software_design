@@ -1,0 +1,7 @@
+.link {
+  display: flex;
+  margin-top: 20px;
+  flex-wrap: nowrap;
+  align-items: center;
+  font-weight: 600;
+}

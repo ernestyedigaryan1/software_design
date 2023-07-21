@@ -1,0 +1,22 @@
+{
+  "unversionedId": "functional-programming/hometask",
+  "id": "functional-programming/hometask",
+  "title": "6. 📚 Home Task",
+  "description": "The home task should be done using TypeScript.",
+  "source": "@site/docs/4-functional-programming/hometask.mdx",
+  "sourceDirName": "4-functional-programming",
+  "slug": "/functional-programming/hometask",
+  "permalink": "/docs/functional-programming/hometask",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5. Functional programming in JS/TS",
+    "permalink": "/docs/functional-programming/is_js_functional"
+  }
+}

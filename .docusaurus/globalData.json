@@ -1,0 +1,66 @@
+{
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1688638047065.json",
+        "lunrIndex": "lunr-index-1688638047065.json"
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "functional-programming/fp_introduction",
+          "docs": [
+            {
+              "id": "functional-programming/categories_and_functors",
+              "path": "/docs/functional-programming/categories_and_functors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functional-programming/fp_introduction",
+              "path": "/docs/functional-programming/fp_introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functional-programming/hometask",
+              "path": "/docs/functional-programming/hometask",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functional-programming/is_js_functional",
+              "path": "/docs/functional-programming/is_js_functional",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functional-programming/main_concepts",
+              "path": "/docs/functional-programming/main_concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "functional-programming/type_classes",
+              "path": "/docs/functional-programming/type_classes",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/functional-programming/fp_introduction",
+                "label": "functional-programming/fp_introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

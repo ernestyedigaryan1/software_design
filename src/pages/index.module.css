@@ -1,0 +1,17 @@
+.main {
+  background-color: #282c34;
+  background-image: url("/img/image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 119px);
+  padding: 3rem;
+}
+
+.linksContainer {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+footer {
+  padding: 10px;
+}

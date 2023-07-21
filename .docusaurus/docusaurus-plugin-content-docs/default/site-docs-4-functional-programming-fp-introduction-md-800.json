@@ -1,0 +1,22 @@
+{
+  "unversionedId": "functional-programming/fp_introduction",
+  "id": "functional-programming/fp_introduction",
+  "title": "1. Introduction",
+  "description": "Functional programming (FP) is a programming paradigm where programs are constructed by applying and composing functions. It is different from the imperative way of thinking of how to build the application. The main unit of functional programming is a function. We already use functions on daily basis. So what is the difference in this case? Functions in FP are different from such in procedural programming, where the program is built upon procedures, dedicated code pieces, and just subprograms. In FP, it's more like a mathematical function, which maps one value to another. In mathematics, when we write f(x) = x * 2, we would always know that f(5) = 10 because in terms of FP, functions are pure. The way to build an application in the FP paradigm is to combine such functions, where each one is some kind of expression over the data. Combination of such functions is called composition.",
+  "source": "@site/docs/4-functional-programming/fp_introduction.md",
+  "sourceDirName": "4-functional-programming",
+  "slug": "/functional-programming/fp_introduction",
+  "permalink": "/docs/functional-programming/fp_introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "2. Main Concepts",
+    "permalink": "/docs/functional-programming/main_concepts"
+  }
+}

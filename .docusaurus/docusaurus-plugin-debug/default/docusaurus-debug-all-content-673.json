@@ -1,0 +1,234 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/Ernest_Yedigaryan/Desktop/Ernest/JavaScript/software_design/sidebars.js",
+          "contentPath": "/Users/Ernest_Yedigaryan/Desktop/Ernest/JavaScript/software_design/docs",
+          "contentPathLocalized": "/Users/Ernest_Yedigaryan/Desktop/Ernest/JavaScript/software_design/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "functional-programming/categories_and_functors",
+              "id": "functional-programming/categories_and_functors",
+              "title": "3. Categories and Functors",
+              "description": "You probably already heard about such a thing as Functor. What is this actually? Before diving into it, let's talk a little about the basic theory.",
+              "source": "@site/docs/4-functional-programming/categories_and_functors.md",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/categories_and_functors",
+              "permalink": "/docs/functional-programming/categories_and_functors",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Main Concepts",
+                "permalink": "/docs/functional-programming/main_concepts"
+              },
+              "next": {
+                "title": "4. Type classes and ADTs",
+                "permalink": "/docs/functional-programming/type_classes"
+              }
+            },
+            {
+              "unversionedId": "functional-programming/fp_introduction",
+              "id": "functional-programming/fp_introduction",
+              "title": "1. Introduction",
+              "description": "Functional programming (FP) is a programming paradigm where programs are constructed by applying and composing functions. It is different from the imperative way of thinking of how to build the application. The main unit of functional programming is a function. We already use functions on daily basis. So what is the difference in this case? Functions in FP are different from such in procedural programming, where the program is built upon procedures, dedicated code pieces, and just subprograms. In FP, it's more like a mathematical function, which maps one value to another. In mathematics, when we write f(x) = x * 2, we would always know that f(5) = 10 because in terms of FP, functions are pure. The way to build an application in the FP paradigm is to combine such functions, where each one is some kind of expression over the data. Combination of such functions is called composition.",
+              "source": "@site/docs/4-functional-programming/fp_introduction.md",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/fp_introduction",
+              "permalink": "/docs/functional-programming/fp_introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "2. Main Concepts",
+                "permalink": "/docs/functional-programming/main_concepts"
+              }
+            },
+            {
+              "unversionedId": "functional-programming/hometask",
+              "id": "functional-programming/hometask",
+              "title": "6. 📚 Home Task",
+              "description": "The home task should be done using TypeScript.",
+              "source": "@site/docs/4-functional-programming/hometask.mdx",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/hometask",
+              "permalink": "/docs/functional-programming/hometask",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5. Functional programming in JS/TS",
+                "permalink": "/docs/functional-programming/is_js_functional"
+              }
+            },
+            {
+              "unversionedId": "functional-programming/is_js_functional",
+              "id": "functional-programming/is_js_functional",
+              "title": "5. Functional programming in JS/TS",
+              "description": "As we have seen from examples before - JS supports main functional principles, but not static types. So, we would talk about the features that TS supports:",
+              "source": "@site/docs/4-functional-programming/is_js_functional.md",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/is_js_functional",
+              "permalink": "/docs/functional-programming/is_js_functional",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4. Type classes and ADTs",
+                "permalink": "/docs/functional-programming/type_classes"
+              },
+              "next": {
+                "title": "6. 📚 Home Task",
+                "permalink": "/docs/functional-programming/hometask"
+              }
+            },
+            {
+              "unversionedId": "functional-programming/main_concepts",
+              "id": "functional-programming/main_concepts",
+              "title": "2. Main Concepts",
+              "description": "As we reviewed earlier, there are rules that the program should follow to be purely functional. Let's look a closer at these main FP concepts.",
+              "source": "@site/docs/4-functional-programming/main_concepts.md",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/main_concepts",
+              "permalink": "/docs/functional-programming/main_concepts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Introduction",
+                "permalink": "/docs/functional-programming/fp_introduction"
+              },
+              "next": {
+                "title": "3. Categories and Functors",
+                "permalink": "/docs/functional-programming/categories_and_functors"
+              }
+            },
+            {
+              "unversionedId": "functional-programming/type_classes",
+              "id": "functional-programming/type_classes",
+              "title": "4. Type classes and ADTs",
+              "description": "Another important thing in functional programming is type-classes and algebraic data types. This is what makes functional programming so flexible and abstract by providing a convenient way of using ad-hoc polymorphism. Actually, we already dealt with it in the previous article when talked about the functors.",
+              "source": "@site/docs/4-functional-programming/type_classes.md",
+              "sourceDirName": "4-functional-programming",
+              "slug": "/functional-programming/type_classes",
+              "permalink": "/docs/functional-programming/type_classes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. Categories and Functors",
+                "permalink": "/docs/functional-programming/categories_and_functors"
+              },
+              "next": {
+                "title": "5. Functional programming in JS/TS",
+                "permalink": "/docs/functional-programming/is_js_functional"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "4. Functional Programming",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/fp_introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/main_concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/categories_and_functors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/type_classes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/is_js_functional"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "functional-programming/hometask"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

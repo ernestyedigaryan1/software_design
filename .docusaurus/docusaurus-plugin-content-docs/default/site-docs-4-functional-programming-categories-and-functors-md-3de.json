@@ -1,0 +1,26 @@
+{
+  "unversionedId": "functional-programming/categories_and_functors",
+  "id": "functional-programming/categories_and_functors",
+  "title": "3. Categories and Functors",
+  "description": "You probably already heard about such a thing as Functor. What is this actually? Before diving into it, let's talk a little about the basic theory.",
+  "source": "@site/docs/4-functional-programming/categories_and_functors.md",
+  "sourceDirName": "4-functional-programming",
+  "slug": "/functional-programming/categories_and_functors",
+  "permalink": "/docs/functional-programming/categories_and_functors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Main Concepts",
+    "permalink": "/docs/functional-programming/main_concepts"
+  },
+  "next": {
+    "title": "4. Type classes and ADTs",
+    "permalink": "/docs/functional-programming/type_classes"
+  }
+}
